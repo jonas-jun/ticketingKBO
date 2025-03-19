@@ -1,0 +1,9 @@
+platform: "ticketlink"
+url: "https://mapi.ticketlink.co.kr/mapi/sports/reserveOpen?categoryId=137"
+headers:
+  User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+  Accept: "application/json, text/plain, */*"
+  Referer: "https://www.ticketlink.co.kr/"
+  Origin: "https://www.ticketlink.co.kr/"
+  x-access-token: "AAAAmAxeyruGusS7iEoBb7M-6zTttaocxlKzL0E9fX5C8kYdAL24Ea63hkUE1t8DsX3w5OXRkRY3mZWZElH-LLxhJacTtJuehXGD5m8XloOT1ihw-k6fNLQ-Gy50xZcDjFzJJTGonlRlmLaBGUKw-QjmAb4myQe3t6KTTeGMP--3cLHcFl64_F79_q7cq-SUjNw8mCZ1pu_lRpJYHg_QhKGDeFY.A"
+  x-tl-locale: "ko"
